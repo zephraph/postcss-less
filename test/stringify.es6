@@ -1,5 +1,5 @@
-import stringify from '../lib/scss-stringify';
-import parse     from '../lib/scss-parse';
+import stringify from '../lib/less-stringify';
+import parse     from '../lib/less-parse';
 
 import { expect } from 'chai';
 import   cases    from 'postcss-parser-tests';

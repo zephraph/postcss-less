@@ -1,4 +1,4 @@
-import tokenize from '../lib/scss-tokenize';
+import tokenize from '../lib/less-tokenize';
 
 import { expect } from 'chai';
 import   Input    from 'postcss/lib/input';

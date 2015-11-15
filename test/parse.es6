@@ -1,4 +1,4 @@
-import parse from '../lib/scss-parse';
+import parse from '../lib/less-parse';
 
 import { expect } from 'chai';
 import   cases    from 'postcss-parser-tests';
