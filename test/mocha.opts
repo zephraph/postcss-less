@@ -1,4 +1,4 @@
 --inline-diffs
 --reporter spec
 --require index
-test/*.es6
+test/*.es
